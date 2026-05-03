@@ -1,5 +1,8 @@
 # Data Analyst Internship Portfolio
 
+## 📊 Internship Summary
+This portfolio showcases my work completed during the ApexPlanet Data Analytics Internship, covering the full data analysis lifecycle from data cleaning to storytelling.
+
 ## 📌 Overview
 This repository contains all tasks completed during the ApexPlanet Data Analytics Internship.
 
@@ -38,3 +41,9 @@ This repository contains all tasks completed during the ApexPlanet Data Analytic
 
 ## 🎯 Learnings
 This internship helped me improve my analytical thinking, data visualization, and storytelling skills.
+
+## 🎯 Key Learnings
+- Hands-on experience in real-world data analysis
+- Improved problem-solving and analytical thinking
+- Ability to create dashboards and visualizations
+- Experience in presenting insights through storytelling
