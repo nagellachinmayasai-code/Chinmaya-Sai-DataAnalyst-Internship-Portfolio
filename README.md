@@ -31,10 +31,10 @@ This repository contains all tasks completed during the ApexPlanet Data Analytic
 - Data Storytelling
 
 ## 📎 Links
-- Task 1 Repo: 
-- Task 2 Repo: 
-- Task 3 Repo: 
-- Task 4 Repo: 
+- Task 1 Repo: https://github.com/nagellachinmayasai-code/ApexPlanet-Task1-SQL-Data-Cleaning
+- Task 2 Repo: https://github.com/nagellachinmayasai-code/ApexPlanet-Task2-EDA
+- Task 3 Repo: https://github.com/nagellachinmayasai-code/ApexPlanet-Task3-Dashboard
+- Task 4 Repo: https://github.com/nagellachinmayasai-code/ApexPlanet-Task4-DataStorytelling
 
 ## 🎯 Learnings
 This internship helped me improve my analytical thinking, data visualization, and storytelling skills.
